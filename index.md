@@ -16,7 +16,9 @@ for the wire protocol and every published client library.
 | nginx module | [docs](/rl-nginx/) | [rl-nginx](https://github.com/ratelimitly-com/rl-nginx) |
 | Rust | [docs](/rl-rust-client/) | [rl-rust-client](https://github.com/ratelimitly-com/rl-rust-client) |
 | Python | [docs](/rl-python-client/) | [rl-python-client](https://github.com/ratelimitly-com/rl-python-client) |
-| Java | [docs](https://github.com/ratelimitly-com/rl-java-client/tree/main/docs) | [rl-java-client](https://github.com/ratelimitly-com/rl-java-client) |
+| Java | [docs](/rl-java-client/) | [rl-java-client](https://github.com/ratelimitly-com/rl-java-client) |
+| JavaScript | [docs](/rl-js-client/) | [rl-js-client](https://github.com/ratelimitly-com/rl-js-client) |
+| Express | [docs](/rl-express/) | [rl-express](https://github.com/ratelimitly-com/rl-express) |
 
 The Java client requires Java 21 or newer. Build from source while its first
 Maven Central release is pending. Spring is coming soon.
