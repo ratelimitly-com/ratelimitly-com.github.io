@@ -17,11 +17,12 @@ for the wire protocol and every published client library.
 | Rust | [docs](/rl-rust-client/) | [rl-rust-client](https://github.com/ratelimitly-com/rl-rust-client) |
 | Python | [docs](/rl-python-client/) | [rl-python-client](https://github.com/ratelimitly-com/rl-python-client) |
 | Java | [docs](/rl-java-client/) | [rl-java-client](https://github.com/ratelimitly-com/rl-java-client) |
+| Spring | [docs](/rl-spring/) | [rl-spring](https://github.com/ratelimitly-com/rl-spring) |
 | JavaScript | [docs](/rl-js-client/) | [rl-js-client](https://github.com/ratelimitly-com/rl-js-client) |
 | Express | [docs](/rl-express/) | [rl-express](https://github.com/ratelimitly-com/rl-express) |
 
-The Java client requires Java 21 or newer. Build from source while its first
-Maven Central release is pending. Spring is coming soon.
+The Java client and the Spring Boot starter require Java 21 or newer. Build
+both from source while their first Maven Central releases are pending.
 
 ## Elsewhere
 
